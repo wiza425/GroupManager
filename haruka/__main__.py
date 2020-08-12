@@ -38,7 +38,7 @@ Activate Anti-spam protection in your BM by this command :
 
 
 Click /help or Help button below to find out more about how to use me to my full potential.
-എന്നെ ഉപയോഗിക്കു ഗ്രൂപ്പിലിരുന്നു സന്തോഷിക്കൂ 😀
+എന്നെ Group Admin  ആകു സന്തോഷിക്കൂ 😀
  
 """
 
