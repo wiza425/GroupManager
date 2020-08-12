@@ -29,17 +29,17 @@ I'm group manager bot and Anti-spam for RR Players🃏
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
-എന്റെ മുതലാളി  [✌️Wizard✌️](t.me/wizard13)
+എന്റെ മുതലാളി  [✌️Wizard✌️](https://t.me/KingWizard0)
 
-
+എന്നെ കുറിച്ചുള്ള സംശയങ്ങൾക് എന്റെ മുതലാളിയെ @KingWizard0 ബന്ധപെടുക. 
 
 
 
 
 
 Click /help or Help button below to find out more about how to use me to my full potential.
-
- Add me to a group by clicking [here](http://t.me/tg_GroupManagerBot?startgroup=true).
+എന്നെ ഉപയോഗിക്കു ഗ്രൂപ്പിലിരുന്നു സന്തോഷിക്കൂ 😀
+ 
 """
 
 
