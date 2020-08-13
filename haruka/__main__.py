@@ -33,7 +33,7 @@ Activate Anti-spam protection in your BM by this command :
 
 എന്നെ കുറിച്ചുള്ള സംശയങ്ങൾക് എന്റെ മുതലാളിയെ @KingWizard0 ബന്ധപെടുക. 
 
-
+ഞാൻ @ikrubot ന്റെ അനിയനാണ് 
 
 
 
