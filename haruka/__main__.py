@@ -31,7 +31,7 @@ You know how hard it is sometimes to manage group so here is the solution for yo
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
-ഐ am a group managing Bot.
+I am a group managing Bot.
 
 If u have any problems contact the above group.
 
