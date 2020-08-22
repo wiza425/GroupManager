@@ -20,7 +20,7 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Hello {}, എന്റെ പേര്  {}!
+PM_START = """Hello {}, My Name is{}!
 
 You know how hard it is sometimes to manage group so here is the solution for you
 
@@ -31,7 +31,7 @@ You know how hard it is sometimes to manage group so here is the solution for yo
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
-ഐ am a ഗ്രൂപ്പ് മാനേജിങ് ബോട്ട്. 
+ഐ am a group managing Bot.
 
 If u have any problems contact the above group.
 
