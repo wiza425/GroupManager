@@ -24,15 +24,17 @@ PM_START = """Hello {}, എന്റെ പേര്  {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you
 
-എന്റെ മുതലാളി നിങ്ങൾക് എന്നെ പോലുള്ള ബോട്ട് ഉണ്ടാക്കി തരും.
+1.@Tamilrockers65
+
+2.@EnglishHorrorMovies
 
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
 ഐ am a ഗ്രൂപ്പ് മാനേജിങ് ബോട്ട്. 
 
-If u have any problems regarding this bot 
-contact @KingWizard0
+If u have any problems contact the above group.
+
 
 
 
