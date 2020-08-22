@@ -24,16 +24,16 @@ PM_START = """Hello {}, എന്റെ പേര്  {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you
 
-I'm group manager bot and Anti-spam for RR Players🃏
+എന്റെ മുതലാളി @KingWizard0 ആണ് 
 
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
-I am a group managing bot.
+
 
 എന്നെ കുറിച്ചുള്ള സംശയങ്ങൾക് എന്റെ മുതലാളിയെ @KingWizard0 ബന്ധപെടുക. 
 
-I am for Searching Cinema
+എന്നെ ഗ്രൂപ്പ്  അഡ്മിൻ ആകു സന്തോഷിക്കു 🙄😀😀😀
 
 
 
