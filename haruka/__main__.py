@@ -34,7 +34,7 @@ Activate Anti-spam protection in your BM by this command :
 I am a group managing Bot.
 
 If u have any problems contact the above group.
-Our groups👇👇👇
+
 
 🔰Our Movie Channels 👇
 
