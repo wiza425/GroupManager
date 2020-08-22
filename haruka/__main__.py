@@ -24,9 +24,9 @@ PM_START = """Hello {}, My Name is{}!
 
 You know how hard it is sometimes to manage group so here is the solution for you
 
-1.@Tamilrockers65
-
-2.@EnglishHorrorMovies
+🚫
+This is a private bot and you can not add it to another group
+🚫
 
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
