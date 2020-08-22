@@ -29,16 +29,16 @@ I'm group manager bot and Anti-spam for RR Players🃏
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
-എന്റെ മുതലാളി  @KingWizard0  ആണ് 
+I am a group managing bot.
 
 എന്നെ കുറിച്ചുള്ള സംശയങ്ങൾക് എന്റെ മുതലാളിയെ @KingWizard0 ബന്ധപെടുക. 
 
-ഞാൻ @ikrubot ന്റെ അനിയനാണ് 
+I am for Searching Cinema
 
 
 
 Click /help or Help button below to find out more about how to use me to my full potential.
-എന്നെ Group Admin  ആകു സന്തോഷിക്കൂ 😀
+Make me Group admin To function
  
 """
 
