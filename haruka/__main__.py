@@ -35,9 +35,20 @@ I am a group managing Bot.
 
 If u have any problems contact the above group.
 Our groups👇👇👇
-https://t.me/TamilRockerMallu
-https://t.me/TamilRockers65Movies
-https://t.me/TamilRockerFilms
+
+🔰Our Movie Channels 👇
+
+ᴄʜᴀɴɴᴇʟ ➧ @Tamilrockers65
+
+ᴄʜᴀɴɴᴇʟ ➧ @EnglishHorrorMovies
+
+🔰Our Movie Request Groups 👇
+
+𝙶𝚁𝙾𝚄𝙿 ➧ @TamilRockers65Movies
+
+𝙶𝚁𝙾𝚄𝙿    ➧ @EnglishHorrorMovie
+
+👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 Make me Group admin To function
