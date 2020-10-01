@@ -16,11 +16,11 @@ from telegram.utils.helpers import mention_html
 
 from haruka import dispatcher, WHITELIST_USERS, SUPPORT_USERS, SUDO_USERS, DEV_USERS, OWNER_ID
 
-from miakhalifa.modules.helper_funcs.chat_status import whitelist_plus, dev_plus
+from haruka.modules.helper_funcs.chat_status import whitelist_plus, dev_plus
 
-from miakhalifa.modules.helper_funcs.extraction import extract_user
+from haruka.modules.helper_funcs.extraction import extract_user
 
-from miakhalifa.modules.log_channel import gloggable
+from haruka.modules.log_channel import gloggable
 
 ELEVATED_USERS_FILE = os.path.join(os.getcwd(), 'miakhalifa/elevated_users.json')
 
