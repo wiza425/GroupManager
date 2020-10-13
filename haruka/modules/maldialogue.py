@@ -142,7 +142,7 @@ VERYSHAME_HANDLER = DisableAbleCommandHandler("veryshame", veryshame)
 
 dispatcher
 add_handler(DIALOGUE_HANDLER)
-dispatcher.
+dispatcher
 add_handler(PROPOSE_HANDLER)
 dispatcher.
 add_handler(SHAME_HANDLER)
